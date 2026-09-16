@@ -1,0 +1,6 @@
+{
+  "name": "XKALA S.A.S - Portal Comercial & Cotizador B2B",
+  "description": "Plataforma comercial y cotizador de ingeniería y construcción para XKALA S.A.S. con estimador paramétrico en tiempo real y cotización técnica B2B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
